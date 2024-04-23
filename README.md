@@ -9,7 +9,7 @@ A network packet delivery/debug tool on the Linux desktop
 - [x] UDP Client
 - [x] UDP Server
 
-## Get it
+## Run
 Download `netassistant` from releases.
 
 ### Build
